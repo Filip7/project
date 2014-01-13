@@ -4,7 +4,7 @@
  *Dates working on program: 03.01.2014 ;
  *Licence: *NONE*
  */
-/*
+
 public  class bestClass {
     public static void main(String[] args){
 //    testing types of numbers
@@ -30,10 +30,10 @@ public  class bestClass {
         }
     }
 }
-*/
 
 
-public class bestClass {
+
+/*public class bestClass {
     public static void main(String[] args) {
 
         int[][] arrayOfInts = {
@@ -64,4 +64,4 @@ public class bestClass {
             System.out.println(searchfor + " not in the array");
         }
     }
-}
+}*/
