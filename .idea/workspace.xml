@@ -75,7 +75,7 @@
       <file leaf-file-name="bestClass.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="8" selection-start="722" selection-end="722" vertical-scroll-proportion="0.46860644" vertical-offset="0" max-vertical-offset="1530">
+            <state line="40" column="49" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.9372129" vertical-offset="0" max-vertical-offset="1512">
               <folding />
             </state>
           </provider>
@@ -380,7 +380,11 @@
       <created>1389607398987</created>
       <updated>1389607398987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Switched comments&#10;Added user input and program does something useful, kind of.">
+      <created>1389646989651</created>
+      <updated>1389646989651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -425,7 +429,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Switched comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switched comments" />
+    <MESSAGE value="Switched comments&#10;Added user input and program does something useful, kind of." />
+    <option name="LAST_COMMIT_MESSAGE" value="Switched comments&#10;Added user input and program does something useful, kind of." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -618,7 +623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="8" selection-start="722" selection-end="722" vertical-scroll-proportion="0.46860644" vertical-offset="0" max-vertical-offset="1530">
+        <state line="40" column="49" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.9372129" vertical-offset="0" max-vertical-offset="1512">
           <folding />
         </state>
       </provider>

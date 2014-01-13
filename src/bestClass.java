@@ -28,7 +28,6 @@ public  class bestClass  {
         n=read.nextInt();
 
 
-
 //    if | else if | else statement
         if(number<0){
             System.out.println("Hello world!");
